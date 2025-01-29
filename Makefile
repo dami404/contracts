@@ -1,5 +1,5 @@
 PATH_TO_PROTO_DIR=proto
-PATH_TO_PROTO_FILE=proto/auth.proto
+PATH_TO_PROTO_FILE=proto/*.proto
 OUT=./gen
 OPT=source_relative
 PROTOC_PACKAGE=google.golang.org/protobuf/cmd/protoc-gen-go@latest
