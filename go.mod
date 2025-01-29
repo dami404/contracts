@@ -1,4 +1,4 @@
-module contracts
+module github.com/dami404/contracts
 
 go 1.22.7
 
